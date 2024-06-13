@@ -3,6 +3,8 @@ A calculator that provides the odds of hitting your units in TFT, made with very
 
 Visit [here](https://vastier.github.io/TFT-Rolling-Odds-Calculator/).
 
+**Updated as of 12/06/24:** Patch 14.12 - Shop odds at Level 7 reverted: 20/33/36/10/1% ⇒ 19/30/40/10/1%.
+
 **Update as of 01/05/24:** Set 11 bag sizes and shop odds. 22/20/17/10/9 for each cost, 13/13/13/12/8 distinct champions for each cost
 
 **Update as of 26/11/23:** Set 10 bag sizes and shop odds. 22/20/17/10/9 for each cost, 13/13/13/13/8 distinct champions for each cost
